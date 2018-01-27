@@ -1,0 +1,41 @@
+C:\Users\Katarzyna\Dropbox\Code Camp Team Folder\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\Katarzyna\Dropbox\Code Camp Team Folder\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\student\Desktop\projmiast-master\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\student\Desktop\projmiast-master revised\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projmiast-master revised 2\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\projekt_miasto 3\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\student\Desktop\projekt_miasto 3\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\student\Desktop\projekt_miasto 3\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\projekt_miasto 3.1\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe.config
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.exe
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\bin\Debug\projekt_miasto.pdb
+C:\Users\PC\Desktop\studia\programowanie\projekt_miasto\projekt_miasto\obj\Debug\projekt_miasto.csprojResolveAssemblyReference.cache
